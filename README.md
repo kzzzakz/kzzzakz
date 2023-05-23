@@ -1,6 +1,4 @@
-<center>
-<h1><b>I'm Kzzzakz. (Zach, the short one)</b></h1>
-</center>
+<h1 align="center"><b>I'm Kzzzakz. (Zach, the short one)</b></h1>
 
 ## 💍 **| About me**
 - I have a [wife](https://www.twitch.tv/arishyaowo).
